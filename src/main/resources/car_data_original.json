@@ -1,0 +1,93 @@
+[
+  {
+    "supplier": {
+      "name": "SIXT"
+    },
+    "description": "Opel Corsa",
+    "sipp": "EDMN",
+    "cost": 29.5,
+    "fuelPolicy": "FULL_FULL"
+  },
+  {
+    "supplier": {
+      "name": "FIREFLY"
+    },
+    "description": "Volkswagen Golf",
+    "sipp": "CDMR",
+    "cost": 48.0,
+    "fuelPolicy": "FULL_FULL"
+  },
+  {
+    "supplier": {
+      "name": "DELPASO"
+    },
+    "description": "Volkswagen Polo",
+    "sipp": "EDMR",
+    "cost": 10.0,
+    "fuelPolicy": "FULL_FULL"
+  },
+  {
+    "supplier": {
+      "name": "DELPASO"
+    },
+    "description": "Volkswagen Up",
+    "sipp": "MDMR",
+    "cost": 8.0,
+    "fuelPolicy": "FULL_EMPTY"
+  },
+  {
+    "supplier": {
+      "name": "RECORD"
+    },
+    "description": "Ford Galaxy",
+    "sipp": "FVAR",
+    "cost": 65.0,
+    "fuelPolicy": "FULL_EMPTY"
+  },
+  {
+    "supplier": {
+      "name": "GOLDCAR"
+    },
+    "description": "Citroen Berlingo",
+    "sipp": "CMMV",
+    "cost": 28.0,
+    "fuelPolicy": "FULL_FULL"
+  },
+  {
+    "supplier": {
+      "name": "GOLDCAR"
+    },
+    "description": "Volkswagen Golf",
+    "sipp": "CLMR",
+    "cost": 18.0,
+    "fuelPolicy": "FULL_EMPTY"
+  },
+  {
+    "supplier": {
+      "name": "SIXT"
+    },
+    "description": "Peugeot 107",
+    "sipp": "MCMR",
+    "cost": 22.5,
+    "fuelPolicy": "FULL_FULL"
+  },
+  {
+    "supplier": {
+      "name": "AVIS"
+    },
+    "description": "Mercedes A Class",
+    "sipp": "ICAV",
+    "cost": 80.0,
+    "fuelPolicy": "FULL_FULL"
+  },
+  {
+    "supplier": {
+      "name": "AVIS"
+    },
+    "description": "Peugeot 107",
+    "sipp": "MCMR",
+    "cost": 30.5,
+    "fuelPolicy": "FULL_FULL"
+  }
+]
+
